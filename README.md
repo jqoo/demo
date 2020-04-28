@@ -2,5 +2,5 @@
 
 - [ ] initiate  
 - [ ] participate  
-- [ ] redeem  
-- [ ] refund
++ [ ] redeem  
+* [ ] refund
